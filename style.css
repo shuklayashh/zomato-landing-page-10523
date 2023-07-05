@@ -264,7 +264,7 @@
 .get__the_app .semiContainer .right {
   flex: 3;
   height : 100%;
-  dispaly : flex;
+  display : flex;
   flex-direction : column;
   gap : 16px;
 }
